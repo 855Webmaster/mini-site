@@ -1,0 +1,14 @@
+
+
+#img1 {background:url("images/img1.jpg") no-repeat center center;background-size:cover;}
+#img2 {background: none;}
+#img3 {background:url("images/img3.jpg") no-repeat center center;background-size:cover;}
+#img4 {background:url("images/img4.jpg") repeat center center;}
+#img5 {background: none;}
+#img6 {background:url("images/img6.jpg") no-repeat center center;background-size:cover;}
+#it1 {background:url("images/it1.jpg") no-repeat center center;background-size:cover;}
+#it2 {background:url("images/it2.jpg") no-repeat center center;background-size:cover;}
+#it3 {background:url("images/it3.jpg") no-repeat center center;background-size:cover;}
+p#bl-title { text-shadow:1px 1px 3px #000000;}
+.bl{box-shadow:1px 1px 5px #cccccc;}
+.pw-t#fea {padding:120px 20px;}
